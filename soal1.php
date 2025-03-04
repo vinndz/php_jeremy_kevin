@@ -1,5 +1,7 @@
 <?php
 
+//soal 1
+
 $jml = $_GET['jml']; // Mengambil parameter jml dari URL
 echo "<table border=1>\n"; // Membuka tag <table> untuk membuat tabel
 

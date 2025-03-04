@@ -1,5 +1,6 @@
 <!-- menggabungkan soal2a, soal2b, dst -->
 <?php
+//soal 2
 
     if($_SERVER["REQUEST_METHOD"] == "POST"){
         $nama = $_POST['nama'];

@@ -1,4 +1,5 @@
 <?php
+// soal 3
 $servername = "localhost"; 
 $username = "root"; 
 $password = ""; 
